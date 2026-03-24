@@ -2,13 +2,14 @@
 
 ## 🔗 Live Links
 
--   🌐 Client: https://sandi-fly.web.app/
--   🖥️ Server: https://sendi-fly-server.vercel.app
+-   🌐 Client: [https://sandi-fly.web.app/]
+-   🖥️ Server: [https://sendi-fly-server.vercel.app]
+-   📦 Requirement :  [https://docs.google.com/document/d/1zZu8-3UEebDQbN2RST5mLFazweFIMWu8QIEABFFBUwg/edit?tab=t.0#heading=h.ckkmvzl7ibdm]
 
 ## 📂 Repositories
 
--   Frontend: https://github.com/arman685913/sendifly-client.git
--   Backend: https://github.com/arman685913/sendifly-server.git
+-   Frontend: [https://github.com/arman685913/sendifly-client.git]
+-   Backend: [https://github.com/arman685913/sendifly-server.git]
 
 ------------------------------------------------------------------------
 
